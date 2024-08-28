@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Raleway", sans-serif;
+    text-align: justify;
+    background-color: #8B0000;
+    color: #EEE8AA;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Cinzel", serif;
+    font-weight: 800;
+    text-align: center;
+    color: #FFD700;
+}
+
+h2 {
+    font-weight: 600;
+    text-align: left;
+    color: #FFFACD;
+}
+
+h3 {
+    font-weight: 500;
+    text-align: center;
+    text-decoration: underline;
+    color: #FFFACD;
+}
+
+h3+p {
+    text-align: left;
+}
+
+h3+p+p {
+    text-align: left;
+}
+
+#str {
+    font-weight: 600;
+}
+
+#pri {
+    text-decoration: underline;
+}
+
+#secon {
+    text-decoration: underline;
+}
+
+#ter {
+    text-decoration: underline;
+}
+
+#eme {
+    font-weight: 600;
+}
+
+#acont {
+    text-decoration: underline;
+}
